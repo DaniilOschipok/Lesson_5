@@ -1,0 +1,42 @@
+h2{
+    color:blue
+}
+
+p{
+    color:brown
+}
+
+#idenh{
+    color:red
+}
+
+#idenp{
+    color:fuchsia
+}
+
+.clh{
+    color:purple
+}
+
+.clp{
+    color:dodgerblue
+}
+
+.clh1.clh2{
+    color:green
+}
+
+.clp1.clp2{
+    color:lightcoral
+}
+
+body>div>.ench{
+    color:orange
+}
+
+body>div>.encp{
+    color:olive
+}
+
+
+
